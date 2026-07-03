@@ -25,13 +25,23 @@ A responsive e-commerce website built using HTML, CSS, and JavaScript. The appli
 
 ## Project Structure
 
-```
-E-Commerce/
-│── index.html
-│── style.css
-│── script.js
-```
+## Project Structure
 
+## 📁 Project Structure
+
+Here is the folder and file structure of this project and a brief explanation of what each file contains:
+
+```text
+PROJECT 6 ( DYNAMIC E-... )
+├── 📄 cart.html                # Shopping cart page UI
+├── 📄 cart.js                  # Logic for managing cart items and total prices
+├── 📄 index.html               # Main homepage of the E-commerce site
+├── 📄 product.html             # Individual product detail page UI
+├── 📄 product.js               # Logic to fetch and display dynamic product details
+├── 📄 README.md                # Project documentation (This file)
+├── 📄 script.js                # Main JavaScript file for general site interactions
+├── 📄 style.css                # Global stylesheet containing all page designs
+└── 🖼️ yg-removebg-preview.png  # Image asset used in the website (e.g., logo or banner)
 ## Responsive Design
 
 The website is fully responsive and adapts seamlessly to desktop, tablet, and mobile devices using CSS media queries. JavaScript is used to fetch and render product data dynamically from the API.
